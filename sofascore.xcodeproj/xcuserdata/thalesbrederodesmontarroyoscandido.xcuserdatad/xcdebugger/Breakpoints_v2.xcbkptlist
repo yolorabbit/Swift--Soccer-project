@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1ED25080-F3E6-4815-B693-1121C26DAAD4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F233D588-7DD3-4E42-974B-3C0BC3DD7F2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sofascore/Views/TeamTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "TeamTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F233D588-7DD3-4E42-974B-3C0BC3DD7F2E - 2ba6fc7afcb5856e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sofascore.TeamTableViewCell.playbackBtn.getter : __C.UIButton"
+                  moduleName = "sofascore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesbrederodesmontarroyoscandido/Desktop/sofascore/sofascore/Views/TeamTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "F233D588-7DD3-4E42-974B-3C0BC3DD7F2E - d7805da0a7688f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIButton in sofascore.TeamTableViewCell.playbackBtn.getter : __C.UIButton"
+                  moduleName = "sofascore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesbrederodesmontarroyoscandido/Desktop/sofascore/sofascore/Views/TeamTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F233D588-7DD3-4E42-974B-3C0BC3DD7F2E - 5ff4bd5f05de957a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sofascore.TeamTableViewCell.playbackBtn.setter : __C.UIButton"
+                  moduleName = "sofascore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesbrederodesmontarroyoscandido/Desktop/sofascore/sofascore/Views/TeamTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F233D588-7DD3-4E42-974B-3C0BC3DD7F2E - 42f6580e6286a96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sofascore.TeamTableViewCell.playbackBtn.modify : __C.UIButton"
+                  moduleName = "sofascore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesbrederodesmontarroyoscandido/Desktop/sofascore/sofascore/Views/TeamTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F233D588-7DD3-4E42-974B-3C0BC3DD7F2E - 6bb5efb8868c4b08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sofascore.TeamTableViewCell.playbackBtn.modify : __C.UIButton with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "sofascore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thalesbrederodesmontarroyoscandido/Desktop/sofascore/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
